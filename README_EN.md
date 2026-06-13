@@ -15,7 +15,7 @@ This project constitutes the **final certification work** of the **IBM Flutter a
 | **Issuer** | IBM (via Coursera) |
 | **Recipient** | Souleymane Sebgo |
 | **Date Earned** | March 4, 2026 |
-| **Certificate** | [View certificate (PDF)](./Completion.pdf) |
+| **Certificate** | [View certificate (PNG)](./Completion.png) |
 | **Verification Link** | [coursera.org/verify/4GvQBZOXU91G](https://coursera.org/verify/4GvQBZOXU91G) |
 
 This certification demonstrates the acquisition and mastery of skills required for professional cross-platform mobile application development.

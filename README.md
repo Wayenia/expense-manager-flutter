@@ -1,4 +1,4 @@
-Voici le fichier `README.md` mis à jour avec un lien vers le fichier `Completion.pdf` :
+Voici le fichier `README.md` mis à jour avec un lien vers le fichier `Completion.png` :
 
 ---
 
@@ -18,7 +18,7 @@ Ce projet constitue le **travail de certification final** du programme **IBM Flu
 | **Émetteur** | IBM (via Coursera) |
 | **Bénéficiaire** | Souleymane Sebgo |
 | **Date d'obtention** | 4 mars 2026 |
-| **Certificat** | [Voir le certificat (PDF)](./Completion.pdf) |
+| **Certificat** | [Voir le certificat (PNG)](./Completion.png) |
 | **Lien de vérification** | [coursera.org/verify/4GvQBZOXU91G](https://coursera.org/verify/4GvQBZOXU91G) |
 
 Cette certification atteste de l'acquisition et de la maîtrise des compétences nécessaires au développement d'applications mobiles cross-platform professionnelles.
@@ -53,7 +53,7 @@ This project constitutes the **final certification work** of the **IBM Flutter a
 | **Issuer** | IBM (via Coursera) |
 | **Recipient** | Souleymane Sebgo |
 | **Date Earned** | March 4, 2026 |
-| **Certificate** | [View certificate (PDF)](./Completion.pdf) |
+| **Certificate** | [View certificate (PNG)](./Completion.png) |
 | **Verification Link** | [coursera.org/verify/4GvQBZOXU91G](https://coursera.org/verify/4GvQBZOXU91G) |
 
 This certification demonstrates the acquisition and mastery of skills required for professional cross-platform mobile application development.

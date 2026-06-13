@@ -14,7 +14,7 @@ Ce projet constitue le **travail de certification final** du programme **IBM Flu
 | **Émetteur** | IBM (via Coursera) |
 | **Bénéficiaire** | Souleymane Sebgo |
 | **Date d'obtention** | 4 mars 2026 |
-| **Certificat** | [Voir le certificat (PDF)](./Completion.pdf) |
+| **Certificat** | [Voir le certificat (PNG)](./Completion.png) |
 | **Lien de vérification** | [coursera.org/verify/4GvQBZOXU91G](https://coursera.org/verify/4GvQBZOXU91G) |
 
 Cette certification atteste de l'acquisition et de la maîtrise des compétences nécessaires au développement d'applications mobiles cross-platform professionnelles.
