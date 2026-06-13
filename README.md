@@ -1,4 +1,4 @@
-Here is the adjusted main `README.md` file, split into two sections (French and English) with pointers to the detailed language-specific files.
+Voici le fichier `README.md` mis à jour avec un lien vers le fichier `Completion.pdf` :
 
 ---
 
@@ -10,7 +10,18 @@ Here is the adjusted main `README.md` file, split into two sections (French and 
 
 ### Contexte du Projet
 
-Ce projet constitue le **travail de certification final** du programme **IBM Flutter and Dart Mobile Apps Development for iOS and Android**. Il démontre l'acquisition et la maîtrise des compétences nécessaires au développement d'applications mobiles cross-platform professionnelles.
+Ce projet constitue le **travail de certification final** du programme **IBM Flutter and Dart Mobile Apps Development for iOS and Android**, validé par la certification suivante :
+
+| Certification | Détails |
+|---------------|---------|
+| **Intitulé** | Flutter and Dart: Developing iOS, Android, and Mobile Apps |
+| **Émetteur** | IBM (via Coursera) |
+| **Bénéficiaire** | Souleymane Sebgo |
+| **Date d'obtention** | 4 mars 2026 |
+| **Certificat** | [Voir le certificat (PDF)](./Completion.pdf) |
+| **Lien de vérification** | [coursera.org/verify/4GvQBZOXU91G](https://coursera.org/verify/4GvQBZOXU91G) |
+
+Cette certification atteste de l'acquisition et de la maîtrise des compétences nécessaires au développement d'applications mobiles cross-platform professionnelles.
 
 ---
 
@@ -34,7 +45,18 @@ Consultez le fichier **[README_FR.md](./README_FR.md)** pour une documentation c
 
 ### Project Context
 
-This project constitutes the **final certification work** of the **IBM Flutter and Dart Mobile Apps Development for iOS and Android** program. It demonstrates the acquisition and mastery of skills required for professional cross-platform mobile application development.
+This project constitutes the **final certification work** of the **IBM Flutter and Dart Mobile Apps Development for iOS and Android** program, validated by the following certification:
+
+| Certification | Details |
+|---------------|---------|
+| **Title** | Flutter and Dart: Developing iOS, Android, and Mobile Apps |
+| **Issuer** | IBM (via Coursera) |
+| **Recipient** | Souleymane Sebgo |
+| **Date Earned** | March 4, 2026 |
+| **Certificate** | [View certificate (PDF)](./Completion.pdf) |
+| **Verification Link** | [coursera.org/verify/4GvQBZOXU91G](https://coursera.org/verify/4GvQBZOXU91G) |
+
+This certification demonstrates the acquisition and mastery of skills required for professional cross-platform mobile application development.
 
 ---
 
@@ -51,3 +73,5 @@ Please read the **[README_EN.md](./README_EN.md)** file for complete documentati
 ---
 
 **Built with Flutter** — Single codebase, two platforms (iOS & Android)
+
+---

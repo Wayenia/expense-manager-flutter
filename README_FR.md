@@ -6,7 +6,18 @@
 
 ### Contexte du Projet
 
-Ce projet constitue le **travail de certification final** du programme **IBM Flutter and Dart Mobile Apps Development for iOS and Android**. Il démontre l'acquisition et la maîtrise des compétences nécessaires au développement d'applications mobiles cross-platform professionnelles.
+Ce projet constitue le **travail de certification final** du programme **IBM Flutter and Dart Mobile Apps Development for iOS and Android**, validé par la certification suivante :
+
+| Certification | Détails |
+|---------------|---------|
+| **Intitulé** | Flutter and Dart: Developing iOS, Android, and Mobile Apps |
+| **Émetteur** | IBM (via Coursera) |
+| **Bénéficiaire** | Souleymane Sebgo |
+| **Date d'obtention** | 4 mars 2026 |
+| **Certificat** | [Voir le certificat (PDF)](./Completion.pdf) |
+| **Lien de vérification** | [coursera.org/verify/4GvQBZOXU91G](https://coursera.org/verify/4GvQBZOXU91G) |
+
+Cette certification atteste de l'acquisition et de la maîtrise des compétences nécessaires au développement d'applications mobiles cross-platform professionnelles.
 
 ---
 
@@ -156,7 +167,7 @@ L'application a été testée sur les configurations suivantes :
 
 ### Conclusion
 
-Ce projet de certification IBM sur (Coursera) atteste de ma capacité à :
+Ce projet de certification IBM (sur Coursera) atteste de ma capacité à :
 
 1. **Concevoir** une application mobile complète de zéro
 2. **Implémenter** une architecture professionnelle (MVVM)
@@ -175,5 +186,3 @@ Ce projet de certification IBM sur (Coursera) atteste de ma capacité à :
 ---
 
 **Développé avec Flutter** — Une codebase, deux plateformes (iOS & Android)
-
----

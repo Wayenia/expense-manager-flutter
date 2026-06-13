@@ -1,7 +1,4 @@
 
-
-## English Version
-
 # Expense Tracker
 
 ## Personal Expense Management Mobile Application
@@ -10,7 +7,18 @@
 
 ### Project Context
 
-This project constitutes the **final certification work** of the **IBM Flutter and Dart Mobile Apps Development for iOS and Android** program. It demonstrates the acquisition and mastery of skills required for professional cross-platform mobile application development.
+This project constitutes the **final certification work** of the **IBM Flutter and Dart Mobile Apps Development for iOS and Android** program, validated by the following certification:
+
+| Certification | Details |
+|---------------|---------|
+| **Title** | Flutter and Dart: Developing iOS, Android, and Mobile Apps |
+| **Issuer** | IBM (via Coursera) |
+| **Recipient** | Souleymane Sebgo |
+| **Date Earned** | March 4, 2026 |
+| **Certificate** | [View certificate (PDF)](./Completion.pdf) |
+| **Verification Link** | [coursera.org/verify/4GvQBZOXU91G](https://coursera.org/verify/4GvQBZOXU91G) |
+
+This certification demonstrates the acquisition and mastery of skills required for professional cross-platform mobile application development.
 
 ---
 
@@ -160,7 +168,7 @@ The application has been tested on the following configurations:
 
 ### Conclusion
 
-This IBM certification project demonstrates my ability to:
+This IBM certification (on Coursera) project demonstrates my ability to:
 
 1. **Design** a complete mobile application from scratch
 2. **Implement** a professional architecture (MVVM)
@@ -179,3 +187,5 @@ This IBM certification project demonstrates my ability to:
 ---
 
 **Built with Flutter** — Single codebase, two platforms (iOS & Android)
+
+---
